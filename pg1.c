@@ -1,6 +1,9 @@
-#include <stdio.h>
-int main()
-{
-    printf("\n hello");
-    return 0;
-}
+Hello welcome guys!!
+here im going to change code 
+please follow my steps
+thank uu
+
+
+
+
+
